@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">navbar-jury</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tout_terrain">TOUT TERRAIN!</string>
+    <string name="scan">SCAN</string>
+    <string name="maquette_autonome">MAQUETTE AUTONOME!</string>
+    <string name="suiveur">Suiveur</string>
+    <string name="tterrain">TTerrain</string>
+    <string name="autonome">Autonome</string>
+    <string name="junior">Junior</string>
+    <string name="suiveur_de_ligne">SUIVEUR DE LIGNE!</string>
+    <string name="maquette_junior">MAQUETTE JUNIOR!</string>
+</resources>
