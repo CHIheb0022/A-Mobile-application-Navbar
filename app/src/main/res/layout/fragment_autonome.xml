@@ -16,7 +16,6 @@
         android:text="MAQUETTE AUTONOME"
         android:textColor="@color/white"
         android:textSize="50sp"
-        
         android:textStyle="bold" />
 
     <Button
