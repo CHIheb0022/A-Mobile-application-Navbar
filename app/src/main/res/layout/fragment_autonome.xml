@@ -16,7 +16,8 @@
         android:text="MAQUETTE AUTONOME"
         android:textColor="@color/white"
         android:textSize="50sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        />
 
     <Button
         android:id="@+id/scanbutton2"
